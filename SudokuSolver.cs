@@ -1,5 +1,5 @@
 using System;
-public class SodukuSolverr
+public class SodukuSolver
 {
     static int SIZE = 9;
     public static bool solveAlgo(char[,] board, int row, int col)
